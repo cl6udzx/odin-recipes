@@ -13,3 +13,5 @@
 
 A simple webpage made during the foundations course on the <strong>Odin Project.</strong> 
 Clicking on a recipe link will show the instructions and ingredients required to make to make a dish.
+
+- Don't forget to start the best course in: [Odin project](https://www.theodinproject.com/)
