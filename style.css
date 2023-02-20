@@ -1,0 +1,52 @@
+body {
+    font-family: cursive;
+    background-color: rgb(24, 24, 24);
+    color:white;
+   
+    
+}
+
+.title {
+    text-align: center;
+    font-size: 4.0rem;
+    color: white;
+    
+}
+
+.description{
+    text-align: center;
+    font-size: 1.6rem;
+    color: white;
+}
+
+.imgFrancesinha{
+    border-radius: 5%;
+
+}
+
+.imgCozidoàPortuguesa {
+    border-radius: 5%;
+
+}
+
+.imgAroozdepato{
+    border-radius: 5%;
+}
+
+
+.desc1{
+    font-size: 1.8rem;
+    
+
+}
+
+.desc2{
+    font-size: 1.8rem;
+    
+
+}
+
+.desc3{
+    font-size: 1.8rem;
+    
+}
